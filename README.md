@@ -1,11 +1,5 @@
-<!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <title>HTML: Text emphasis</title>
-    </head>
-    <body>
-
+  
     <h1>IMPOSTER SUS</h1>
     
     <p>Get rickrolled dumbo.</p>
